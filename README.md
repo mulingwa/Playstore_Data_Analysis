@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
+- [Data Preparation](#data-preparation)
 - [Data Analysis](#data-analysis)
 - [Contributors](#contributors)
 - [License](#license)
@@ -16,6 +17,9 @@ The main goal of this project is to provide valuable insights into app trends an
 
 # Project Overview
 Teddy, a recent graduate from a Mobile App Development bootcamp, is eager to make his mark in the app development industry. He has decided to launch his own mobile app. However, Teddy is aware that the app market is highly competitive, and the success of his app will depend on various factors.
+
+# Data Preparation
+
 # Data Analysis
 
 # Contributors 
