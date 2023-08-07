@@ -19,7 +19,7 @@ The main goal of this project is to provide valuable insights into app trends an
 Teddy, a recent graduate from a Mobile App Development bootcamp, is eager to make his mark in the app development industry. He has decided to launch his own mobile app. However, Teddy is aware that the app market is highly competitive, and the success of his app will depend on various factors.
 
 # Data Preparation
-
+The following steps were followed in preparing the data for analysis
 # Data Analysis
 
 # Contributors 
