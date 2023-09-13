@@ -21,7 +21,7 @@ Teddy, a recent graduate from a Mobile App Development bootcamp, is eager to mak
 # Data Preparation
 The following steps were followed in preparing the data for analysis
 # Data Analysis
-
+Removing duplicates
 # Contributors 
 
 # License
