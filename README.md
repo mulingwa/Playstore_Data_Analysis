@@ -21,7 +21,10 @@ Teddy, a recent graduate from a Mobile App Development bootcamp, is eager to mak
 # Data Preparation
 The following steps were followed in preparing the data for analysis
 # Data Analysis
-Removing duplicates
+Removing duplicates 
+Changing data types of columns to int
+Removing irrelevant columns
+Filling null values column relevant values
 # Contributors 
 
 # License
